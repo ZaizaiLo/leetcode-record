@@ -27,5 +27,4 @@ public class BinarySearch {
         int search = search(nums, 12);
         System.out.println(search);
     }
-
 }
