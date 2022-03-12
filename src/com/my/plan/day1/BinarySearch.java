@@ -1,4 +1,4 @@
-package com.my.record.starter.plan.day1;
+package com.my.plan.day1;
 
 /**
  * @description
