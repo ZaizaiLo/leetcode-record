@@ -1,4 +1,4 @@
-package com.my.plan.day1;
+package com.my.twentydayplan.day1;
 
 /**
  * @description

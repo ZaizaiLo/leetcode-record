@@ -1,4 +1,4 @@
-package com.my.plan.day2;
+package com.my.twentydayplan.day2;
 
 import java.util.Arrays;
 import java.util.stream.IntStream;
