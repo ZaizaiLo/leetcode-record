@@ -8,8 +8,9 @@ package com.my.top100;
 public class TwoSum {
 
     public static int[] twoSum(int[] nums, int target) {
-        for (int i = 0; i < nums.length; ++i) {
-            for (int j = i + 1; j < nums.length; ++j) {
+        int length = nums.length;
+        for (int i = 0; i < length; ++i) {
+            for (int j = i + 1; j < length; ++j) {
                 if (target == nums[i] + nums[j]) {
                     return new int[]{i, j};
                 }
